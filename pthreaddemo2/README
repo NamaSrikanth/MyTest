@@ -1,0 +1,5 @@
+In this example, 
+
+creating 2 threads
+these two threads call the same function and increment the local variable, prints on terminal
+one global variable incremented by two threads and prints the value on terminal.
